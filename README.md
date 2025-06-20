@@ -1,16 +1,13 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**ivandiaz333/ivandiaz333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Iván Díaz y estoy buscando mi primera oportunidad como desarrollador web.
 
-Here are some ideas to get you started:
+- 💻 Actualmente estoy practicando con proyectos personales y ejercicios para mejorar mis habilidades.
+- 🌱 Aprendiendo sobre frameworks modernos como React.
+- 🚀 Motivado, autodidacta y con muchas ganas de comenzar a trabajar en el sector tecnológico.
+- 🤝 Abierto a colaborar en proyectos, trabajar en equipo y crecer profesionalmente.
+- 📫 Puedes contactarme en: ivandiaz1993@gmail.com
+- ⚡ Dato curioso: Me gustan los retos y aprender cosas nuevas cada día.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¿Buscas a alguien motivado para tu equipo? ¡Hablemos!
+
